@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "farms",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FARM_CODE": "F01" }, "geometry": { "type": "Point", "coordinates": [ 9.301808814925135, 41.215103176839833 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F02" }, "geometry": { "type": "Point", "coordinates": [ 9.327308546281451, 41.197169213045385 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F03" }, "geometry": { "type": "Point", "coordinates": [ 9.406516338370677, 41.204937573603964 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F04" }, "geometry": { "type": "Point", "coordinates": [ 9.448752653960366, 41.239780037890625 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F05" }, "geometry": { "type": "Point", "coordinates": [ 9.421678194160723, 41.160404451122361 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F06" }, "geometry": { "type": "Point", "coordinates": [ 9.444579667367274, 41.122766475474997 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F07" }, "geometry": { "type": "Point", "coordinates": [ 9.464408338905951, 41.131438217065529 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F08" }, "geometry": { "type": "Point", "coordinates": [ 9.487155547306086, 41.207905881635774 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F09" }, "geometry": { "type": "Point", "coordinates": [ 9.253649055186447, 41.246572904184873 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F10" }, "geometry": { "type": "Point", "coordinates": [ 9.392263183521568, 41.243267513463039 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F11" }, "geometry": { "type": "Point", "coordinates": [ 9.374162574580605, 41.287805753673737 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F12" }, "geometry": { "type": "Point", "coordinates": [ 9.344985517698323, 41.25435611888674 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F13" }, "geometry": { "type": "Point", "coordinates": [ 9.542602704577957, 41.140940136439859 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F14" }, "geometry": { "type": "Point", "coordinates": [ 9.57655494582364, 41.107962897515172 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F15" }, "geometry": { "type": "Point", "coordinates": [ 9.325813920766146, 41.285036160876082 ] } }
+]
+}

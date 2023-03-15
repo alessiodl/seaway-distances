@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "FARM_CODE": "F01" }, "geometry": { "type": "Point", "coordinates": [ 1035472.62073384958785, 5044121.29313588142395 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F02" }, "geometry": { "type": "Point", "coordinates": [ 1038311.237843799754046, 5041467.721391980536282 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F03" }, "geometry": { "type": "Point", "coordinates": [ 1047128.60892603197135, 5042617.065792235545814 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F04" }, "geometry": { "type": "Point", "coordinates": [ 1051830.33407046017237, 5047773.756970914080739 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F05" }, "geometry": { "type": "Point", "coordinates": [ 1048816.418992060935125, 5036030.151096785441041 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F06" }, "geometry": { "type": "Point", "coordinates": [ 1051365.799327830085531, 5030466.589841754175723 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F07" }, "geometry": { "type": "Point", "coordinates": [ 1053573.116946622729301, 5031748.144232756458223 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F08" }, "geometry": { "type": "Point", "coordinates": [ 1056105.324602694250643, 5043056.268898840993643 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F09" }, "geometry": { "type": "Point", "coordinates": [ 1030111.50080301228445, 5048779.42260271590203 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F10" }, "geometry": { "type": "Point", "coordinates": [ 1045541.954986031516455, 5048290.055315956473351 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F11" }, "geometry": { "type": "Point", "coordinates": [ 1043527.004415675415657, 5054886.080142148770392 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F12" }, "geometry": { "type": "Point", "coordinates": [ 1040279.029300693306141, 5049931.835192006081343 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F13" }, "geometry": { "type": "Point", "coordinates": [ 1062277.673916133586317, 5033152.581058686599135 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F14" }, "geometry": { "type": "Point", "coordinates": [ 1066057.220122893108055, 5028279.232486648485065 ] } },
+{ "type": "Feature", "properties": { "FARM_CODE": "F15" }, "geometry": { "type": "Point", "coordinates": [ 1038144.856892509502359, 5054475.777725822292268 ] } }
+]
+}
